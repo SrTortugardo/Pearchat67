@@ -8,4 +8,12 @@ No, ni de chiste es seguro, no lo uses si tu objetivo es un chat ultra-seguro, s
 # Caracteristicas :
 - Es estupidamente pequeño, probablemente NUNCA pase de 1000 lineas! (sin contar obviamente, librerias)
 
+# Como perejiles se instala
+Solo ocupas tener instalado git y rust. Nada mas, casi todas las distros ya lo traen por defecto, o si te crees especial y usas arch lo mas probable es que tambien lo tengas igual.
+Despues de tener eso solo copea los siguientes comandos y ya es todo
+git clone https://github.com/SrTortugardo/Pearchat.git
+cd Pearchat
+cargo build
+cargo install --path .
 
+recuerda tener ~/.cargo/bin/ en tu path o si usas Microsoft Windows C:\Users\TU_USUARIO\.cargo\bin\
