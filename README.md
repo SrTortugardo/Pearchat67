@@ -1,4 +1,4 @@
-# Pearchat
+# Pearchat67
 esta cosa es un chat local para la red local, diseñado especificamente para los tontillos que quieren platicar en clase de informatica pero la maestra les regaña asi que pues con esto pueden ser felices.
 Ademas este proyecto es como una practica de rust pero pues bueno, algo como un 30-minutes project
 
